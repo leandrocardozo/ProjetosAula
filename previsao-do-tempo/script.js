@@ -66,5 +66,3 @@
 
 })()
 
-//testando funcionalidades do git
-
